@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_parameter_set">
+    <sys_atf_parameter_set action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <order>1</order>
+        <parameters/>
+        <sys_class_name>sys_atf_parameter_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-18 01:25:18</sys_created_on>
+        <sys_id>b8fc0e3f1b08f01045102f08b04bcb5b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_parameter_set_b8fc0e3f1b08f01045102f08b04bcb5b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-18 01:27:38</sys_updated_on>
+        <test display_value="NeedItモジュールを作成する">eb2c42b31b08f01045102f08b04bcbff</test>
+    </sys_atf_parameter_set>
+    <sys_variable_value action="DELETE" query="document_key=b8fc0e3f1b08f01045102f08b04bcb5b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>88c900011bccf010e84d2f8dee4bcb52</instance_id>
+        <instance_name>dev114392</instance_name>
+        <name>sys_atf_parameter_set_b8fc0e3f1b08f01045102f08b04bcb5b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_parameter_set"><sys_atf_parameter_set action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description/><order>1</order><parameters/><sys_class_name>sys_atf_parameter_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-18 01:25:18</sys_created_on><sys_id>b8fc0e3f1b08f01045102f08b04bcb5b</sys_id><sys_mod_count>2</sys_mod_count><sys_name>1</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_parameter_set_b8fc0e3f1b08f01045102f08b04bcb5b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-18 01:27:38</sys_updated_on><test display_value="NeedItモジュールを作成する">eb2c42b31b08f01045102f08b04bcbff</test></sys_atf_parameter_set><sys_variable_value action="delete_multiple" query="document_key=b8fc0e3f1b08f01045102f08b04bcb5b"/></record_update>]]></payload>
+        <payload_hash>-1218286102</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>5936fe221b84301045102f08b04bcb3e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-18 01:27:38</sys_created_on>
+        <sys_id>1c9d86771b88f01045102f08b04bcb00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1797d15ea040000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-18 01:27:38</sys_updated_on>
+        <type>Test Run Data Set</type>
+        <update_guid>549d8677d488f01023783baf62b5fa00</update_guid>
+        <update_guid_history>549d8677d488f01023783baf62b5fa00:-1218286102,820d46376988f01067fdbd763ff5be9d:-1558637532</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-18 01:27:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_parameter_set">sys_atf_parameter_set</sys_db_object>
+        <sys_id>4b3d6f7e49de4ad0aa6ae9c737283084</sys_id>
+        <sys_metadata>b8fc0e3f1b08f01045102f08b04bcb5b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_parameter_set_b8fc0e3f1b08f01045102f08b04bcb5b</sys_update_name>
+        <sys_update_version display_value="sys_atf_parameter_set_b8fc0e3f1b08f01045102f08b04bcb5b">1c9d86771b88f01045102f08b04bcb00</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-18 01:27:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
